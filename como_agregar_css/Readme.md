@@ -24,10 +24,8 @@ Se define el estilo como atributo del parametro `style=` en el elemento al que s
 &nbsp;
 # Estructura de CSS
 
-### Anatomía
 
-### Comentarios
-
+![](../img/cssestru.png)
 
 
 #### Siguiente:
