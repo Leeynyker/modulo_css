@@ -1,0 +1,21 @@
+*{
+  color: green;
+}
+
+p{
+  color: red;
+}
+
+.titulo-2{
+  color: yellow;
+  background: black;
+}
+
+#parrafo{
+  color: blue;
+  font-size: 20px;
+}
+
+[href='#']{
+  background-color: violet;
+}
