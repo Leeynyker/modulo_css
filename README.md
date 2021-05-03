@@ -9,3 +9,5 @@ Sus siglas quieren decir **Hojas de Estilo en Cascada** (Cascading Style Sheeets
 ## Contenido
 * [¿Cómo agregar CSS a un proyecto?](/como_agregar_css/)
 * [Selectores](/selectores/)
+* [Combinadores](/combinadores/)
+* [Psudoelementos](/pseudos/)
