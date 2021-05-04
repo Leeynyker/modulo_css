@@ -28,5 +28,6 @@ Se define el estilo como atributo del parametro `style=` en el elemento al que s
 ![](../img/cssestru.png)
 
 
-#### Siguiente:
-  [Selectores](/selectores/)
+| Anterior                   | Siguiente                     |
+|----------------------------|-------------------------------|
+| [¿Qué es CSS?](./) | [Selectores](/selectores/)|

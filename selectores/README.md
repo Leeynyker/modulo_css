@@ -85,7 +85,7 @@ _Ejemplo:_
 Codigo en HTML
 
 ```
-<a href="#">Esto es un ancla</a>
+<a href="#"> Esto es un ancla </a>
 ```
 Codigo CSS
 ```
@@ -93,3 +93,8 @@ Codigo CSS
   background-color: violet;
 }
 ```
+***
+
+| Anterior                   | Siguiente                     |
+|----------------------------|-------------------------------|
+| [¿Cómo agregar CSS a un proyecto?](/como_agregar_css/) | [Combinadores](/combinadores/)|

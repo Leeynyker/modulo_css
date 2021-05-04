@@ -1,21 +1,26 @@
+/* Selector universal */
 *{
   color: green;
 }
 
+/* Selector de tipo */
 p{
   color: red;
 }
 
+/* Selector de clase */
 .titulo-2{
   color: yellow;
   background: black;
 }
 
+/* Selector de ID */
 #parrafo{
   color: blue;
   font-size: 20px;
 }
 
+/* Selector de atributo */
 [href='#']{
   background-color: violet;
 }
