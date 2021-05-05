@@ -16,7 +16,7 @@ _Ejemplo_
 }
 ```
 
-Este bloque de codigo hará que todos los textos que se encoentren en el documento se muestren de color verde y que cada elemento tenga fondo negro.
+Este bloque de código hará que todos los textos que se encoentren en el documento se muestren de color verde y que cada elemento tenga fondo negro.
 
 ### Selector de tipo
 
@@ -31,11 +31,11 @@ p{
 }
 ```
 
-En este caso la regla se aploca a todos los elementos `<p>...</p>` dentro del documento.
+En este caso la regla se aplica a todos los elementos `<p>...</p>` dentro del documento.
 
 ### Selector de clase
 
-Se aplica a todos los elementos que tengan el atrubuto `class` especificado, y se denota con un punto `.classname`.
+Se aplica a todos los elementos que tengan el atributo `class` especificado, y se denota con un punto `.classname`.
 
 
 _Ejemplo:_
