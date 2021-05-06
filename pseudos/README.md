@@ -27,4 +27,4 @@ selector::pseudoelemento {
 ***
 | Anterior                   | Siguiente                     |
 |----------------------------|-------------------------------|
-| [Combinadores](/combinadores/) | [Especificidad](/especificidad/)|
+| [Combinadores](/combinadores/) | [Modelo de caja](/boxmodel/)|
