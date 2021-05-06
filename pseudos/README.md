@@ -24,6 +24,7 @@ selector::pseudoelemento {
 * [Lista de pseudoclases](https://www.w3schools.com/css/css_pseudo_classes.asp)
 * [Lista de pseudoelementos](https://www.w3schools.com/css/css_pseudo_elements.asp)
 
+***
 | Anterior                   | Siguiente                     |
 |----------------------------|-------------------------------|
 | [Combinadores](/combinadores/) | [Especificidad](/especificidad/)|
