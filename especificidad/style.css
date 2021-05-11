@@ -1,0 +1,13 @@
+.parrafo{
+  color: white;
+  background-color: red;
+}
+
+p{
+  font-size: 30px;
+  color: black;
+}
+
+button{
+  background-color: yellow !important;
+}
