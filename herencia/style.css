@@ -1,0 +1,15 @@
+.container-1{
+  color: blue;
+}
+body{
+  font-size: 150%;
+  color: red;
+}
+
+.container-2{
+  border-left: 5px black solid;
+}
+#p2{
+  margin: 5px;
+  border: inherit;
+}
