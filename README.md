@@ -1,5 +1,5 @@
 # modulo_css
-Curso de desarrollo web frontedn 2021 IEEE (🇨🇴-🇵🇾) modulo de CSS
+Curso de desarrollo web frontend 2021 IEEE (🇨🇴-🇵🇾) modulo de CSS
 ________________________________________________________________
 
 ## ¿Que es css?
