@@ -38,4 +38,4 @@ Estas medidas se usan para que los tamaños se ajusten segun el tamaño de los c
 ***
 | Anterior                   | Siguiente                     |
 |----------------------------|-------------------------------|
-| [Herencia](/herencia/) | [Variables](/variabls/)|
+| [Herencia](/herencia/) | [Variables](/variables/)|

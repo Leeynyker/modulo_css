@@ -1,0 +1,16 @@
+:root{
+  --color-par: #ffaa00;
+  --color-impar: #ffff00;
+}
+
+.box{
+  height: 50px;
+  width: 50px;
+}
+
+.par{
+  background-color: var(--color-par);
+}
+.impar{
+  background-color: var(--color-impar);
+}

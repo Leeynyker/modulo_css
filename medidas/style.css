@@ -1,4 +1,4 @@
-/* h1{
+h1{
   font-size:  50px;
 }
 span{
@@ -8,15 +8,14 @@ span{
 p{
   font-size: 0.5in;
   border: black solid 2cm;
-} */
+}
 
 html{
   font-size: 62.5%;
 }
-/* h1{
-  background-color: red;
-  text-align: center;
-} */
+h1{
+  font-size: 2em;
+}
 div{
   font-size: 1.5em;
   background-color: red;
