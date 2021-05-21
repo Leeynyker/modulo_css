@@ -10,22 +10,23 @@ Tenemos tres maneras de cambiar la tipografia usando CSS.
 ### Fuentes genéricas
 Son las fuentes que están instaladas por defecto en los navegadores. Tenemos cuatro familias de fuentes genericas.
 
+![](../img/generica.png)
 
 ### Fuentes externas
 Una de las maneras de agregar fuentes distintas a las genéricas es haciendo uso de fuentes externas, estas pueden ser obtenidas de distintos sitios, uno de los mas populares es [Google Fonts](https://fonts.google.com).
 
 Para poder hacer uso de estas fuentes debenos hacer referencia de enlace a través de una etiqueta `<link>` en nuestro HTML.
 
-(imagen)
+![](../img/extern1.png)
 
 Para aplicarla usamos la propiedad de CSS `font-family` a la cual se le asigna la fuente y su familia.
 
-(imagen)
+![](../img/extern2.png)
 
 ### Fuentes personalizadas
 Otra forma de aplicar fuentes que no sean las genericas es haciendo uso de las fuentes personalizadas (fuentes embebidas), esto lo hacemos poniendo los archivos de las fuentes directamente en nuestro proyecto, y para usarla llamamos a la propiedad `@font-face` donde principalmente vamos a darle un nombre a la familia de la fuenta `font-family` y ha ramos refeencia a la ubicación de de nuestro archivo.ttf.
 
-(Imagrn)
+![](../img/personal.png)
 
 ## Propiedades de las fuentes
 |Propiedad|Descripción|
