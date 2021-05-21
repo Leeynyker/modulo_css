@@ -1,0 +1,54 @@
+main{
+  background-color: darksalmon;
+  padding: 20px;
+  border: 2px solid black;
+  height: 400px;
+}
+div{
+  width: 70px;
+  height: 70px;
+  background-color: aquamarine;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  border: 2px solid black;
+}
+
+.flex-container{
+  display: flex;
+  
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: space-around;
+}
+
+.item-1{
+  order: 3;
+  flex-grow: 1;
+  flex-basis: 70px;
+  flex-shrink: 5;
+  background-color: red;
+}
+.item-2{
+  flex-shrink: 1;
+  background-color: blue;
+  flex-grow: 1;
+}
+.item-3{
+  background-color: yellow;
+  flex-grow: 2;
+}
+.item-4{
+  order: 2;
+  flex-grow: 1;
+  background-color: green;
+}
+.item-5{
+  order: 1;
+  flex-grow: 1;
+  background-color: purple;
+}
