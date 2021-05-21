@@ -30,4 +30,4 @@ Se define el estilo como atributo del parametro `style=` en el elemento al que s
 ***
 | Anterior                   | Siguiente                     |
 |----------------------------|-------------------------------|
-| [¿Qué es CSS?](./) | [Selectores](/selectores/)|
+| [¿Qué es CSS?](https://github.com/Leeynyker/modulo_css) | [Selectores](/selectores/)|
