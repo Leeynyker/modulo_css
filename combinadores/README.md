@@ -21,7 +21,7 @@ div ~ p{
 ```
 
 ### Hijo
-Se aplica a el hijo directo del elemento designado como principal, se denota con un signo de maryor que `>` entre los elementos.
+Se aplica a el hijo directo del elemento designado como principal, se denota con un signo de mayor que `>` entre los elementos.
 
 ```
 div > p{

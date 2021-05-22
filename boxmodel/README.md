@@ -1,6 +1,6 @@
 # Modelo de caja
 
-Con HTML y CSS todo se maneja con cajas, comprender su funcionamiento es escencial para fel disselo y maquetado. El modelo de caja se compone por:
+Con HTML y CSS todo se maneja con cajas, comprender su funcionamiento es esencial para el diseño y maquetado. El modelo de caja se compone por:
 * Margin
 * Border
 * Padding
@@ -9,16 +9,16 @@ Con HTML y CSS todo se maneja con cajas, comprender su funcionamiento es escenci
 ![](../img/mcaja.png)
 
 ### Margin
-Es el area fuera del borde, externa al elemento.
+Es el área fuera del borde, externa al elemento.
 
 ### Border
-Es el borde que rodea el elemento, podria decirse fque es la frontera entre el elemento y el resto del coontenido.
+Es el borde que rodea el elemento, podría decirse que es la frontera entre el elemento y el resto del contenido.
 
 ### Padding
-Deja un espaciio dentro del elemento, alrededor del conntenido.
+Deja un espacio dentro del elemento, alrededor del contenido.
 
 ### Content
-Es donde se encuentra el contenido del elemento (textos, imagenes,videos, etc).
+Es donde se encuentra el contenido del elemento (textos, imágenes, videos, etc.)
 
 ***
 | Anterior                   | Siguiente                     |

@@ -4,7 +4,7 @@ ________________________________________________________________
 
 ## ¿Que es css?
 
-Sus siglas quieren decir **Hojas de Estilo en Cascada** (Cascading Style Sheeets). Es el lenguaje usado para dar estilo a el contenido web creado con HTML, este define la apariencia que tendrán los sitios web, incluyendo colores, tipografia, tamaño y margen de los elementos, entre otras propiedades de los mismos.
+Sus siglas quieren decir **Hojas de Estilo en Cascada** (Cascading Style Sheeets). Es el lenguaje usado para dar estilo a el contenido web creado con HTML, este define la apariencia que tendrán los sitios web, incluyendo colores, tipografía, tamaño y margen de los elementos, entre otras propiedades de los mismos.
 
 ## Contenido
 * [¿Cómo agregar CSS a un proyecto?](/como_agregar_css/)

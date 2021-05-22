@@ -3,7 +3,7 @@
 Existen tres maneras de agregar css a un proyecto en html 
 * CSS externo
 * CSS interno
-* CSS en linea
+* CSS en línea
 
 ### CSS externo 
 Usando una etiqueta `<link>` se hace referencia al archivo de estilos (.css) pasando la ubicación de este como parámetro del atributo `href`.
@@ -16,7 +16,7 @@ Se definen las instrucciones css dentro de una etiqueta `<style>` en el document
 ![](../img/cssinterno1.png)
 
 ### CSS en linea
-Se define el estilo como atributo del parametro `style=` en el elemento al que se le quiere aplicar.
+Se define el estilo como atributo del parámetro `style=` en el elemento al que se le quiere aplicar.
 
 ![](../img/cssline.png)
 

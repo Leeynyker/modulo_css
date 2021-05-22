@@ -1,6 +1,6 @@
 # Selectores
 
-Los selectores definen a que elemento se le aplicará un conjunto de reglas CSS (El estilo). Existen cinco tipos de seletores.
+Los selectores definen a que elemento se le aplicará un conjunto de reglas CSS (El estilo). Existen cinco tipos de selectores.
 
 ### Selector Universal
 
@@ -16,11 +16,11 @@ _Ejemplo_
 }
 ```
 
-Este bloque de código hará que todos los textos que se encoentren en el documento se muestren de color verde y que cada elemento tenga fondo negro.
+Este bloque de código hará que todos los textos que se encuentren en el documento se muestren de color verde y que cada elemento tenga fondo negro.
 
 ### Selector de tipo
 
-Se aplica a todos los elementos en los que su etiqueta HTML coinsida con el valor del selctor.
+Se aplica a todos los elementos en los que su etiqueta HTML coincida con el valor del selector.
 
 
 _Ejemplo:_
@@ -39,14 +39,14 @@ Se aplica a todos los elementos que tengan el atributo `class` especificado, y s
 
 
 _Ejemplo:_
-Codigo en HTML
+Código en HTML
 
 ```
 <h2 class="titulo-2">
     Este es un tutulo 2
 </h2>
 ```
-Codigo CSS
+Código CSS
 ```
 .titulo-2{
   color: yellow;
@@ -61,14 +61,14 @@ Se aplica a un elemento basándose en el valor su atributo `id`, se denota con u
 
 
 _Ejemplo:_
-Codigo en HTML
+Código en HTML
 
 ```
 <p id="parrafo">
     Esto es un parrafo 
 </p>
 ```
-Codigo CSS
+Código CSS
 ```
 #parrafo{
   color: blue;
@@ -78,16 +78,16 @@ Codigo CSS
 
 ### Selector de atributo
 
-Se aplica a los elementos en los que un determinado atributo y su valor coinsidan con el selector, se denota entre corchetes cuadrados `[atributo = valor]`.
+Se aplica a los elementos en los que un determinado atributo y su valor coincidan con el selector, se denota entre corchetes cuadrados `[atributo = valor]`.
 
 
 _Ejemplo:_
-Codigo en HTML
+Código en HTML
 
 ```
 <a href="#"> Esto es un ancla </a>
 ```
-Codigo CSS
+Código CSS
 ```
 [href='#']{
   background-color: violet;
