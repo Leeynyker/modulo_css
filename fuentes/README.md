@@ -1,5 +1,5 @@
-#Fuentes
-Las tipografÍas son una parte importante en el diseño y estilo que agregamos a una página web por ende tambien son parte esencial de  CSS.
+# Fuentes
+Las tipografÍas son una parte importante en el diseño y estilo que agregamos a una página web por ende también son parte esencial de  CSS.
 
 Tenemos tres maneras de cambiar la tipografía usando CSS.
 
@@ -24,7 +24,7 @@ Para aplicarla usamos la propiedad de CSS `font-family` a la cual se le asigna l
 ![](../img/extern2.png)
 
 ### Fuentes personalizadas
-Otra forma de aplicar fuentes que no sean las genéricas es haciendo uso de las fuentes personalizadas (fuentes embebidas), esto lo hacemos poniendo los archivos de las fuentes directamente en nuestro proyecto, y para usarla llamamos a la propiedad `@font-face` donde principalmente vamos a darle un nombre a la familia de la fuente `font-family` y ha ramos refeencia a la ubicación de nuestro archivo.ttf.
+Otra forma de aplicar fuentes que no sean las genéricas es haciendo uso de las fuentes personalizadas (fuentes embebidas), esto lo hacemos poniendo los archivos de las fuentes directamente en nuestro proyecto, y para usarla llamamos a la propiedad `@font-face` donde principalmente vamos a darle un nombre a la familia de la fuente `font-family` y haremos referencia a la ubicación de nuestro archivo.ttf.
 
 ![](../img/personal.png)
 

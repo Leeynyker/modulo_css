@@ -1,6 +1,6 @@
 # Display
 Modifica el comportamiento de las cajas en HTML. Formalmente la propiedad `display` establece los tipos de visualización interna y externa de un elemento.
-La propiedad `display` tiene puede tomar varios valores de los cuales en esta ocasión veremos solo tres de ellos.
+La propiedad `display` puede tomar varios valores de los cuales en esta ocasión veremos solo tres de ellos.
 *  block
 * inline
 * inline-block

@@ -1,7 +1,7 @@
 # Variables
 
 Las variables en CSS sirven para declarar estilos que se repiten constantemente y facilitar el trabajo en ciertas ocasiones. Además, en las variables de CSS puede ser modificado su valor desde JavaScript.
-Una buena forma de utilizar estas variables es en el uso de los colores, en lugar de copiar y pegar los mismos colores varias veces se pueden usar las variables.
+Una buena forma de utilizar estas variables es en el uso de los colores. En lugar de copiar y pegar los mismos colores varias veces se pueden usar las variables.
 
 ### Cómo se crean las variables en CSS
 Las variables deben declararse dentro de un selector. Se acostumbra usar `:root` para que la variable sea global, se declaran con dos guiones y el nombre.

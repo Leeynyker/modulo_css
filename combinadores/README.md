@@ -21,7 +21,7 @@ div ~ p{
 ```
 
 ### Hijo
-Se aplica a el hijo directo del elemento designado como principal, se denota con un signo de mayor que `>` entre los elementos.
+Se aplica al hijo directo del elemento designado como principal, se denota con un signo de mayor que `>` entre los elementos.
 
 ```
 div > p{
@@ -30,7 +30,7 @@ div > p{
 ```
 
 ### Descendiente
-Se aplica a todos los elementos internos del mismo tipo dfentro de un contenedor.
+Se aplica a todos los elementos internos del mismo tipo dentro de un contenedor.
 
 ```
 div p{

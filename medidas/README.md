@@ -33,7 +33,7 @@ El tamaño es relativo a otro elemento (Contenedor principal, elemento raíz, an
 |vmin    |% del mínimo entre vw y vh                      |
 |vmax    |% del máximo entre vw y vh                      |
 
-Estas medidas se usan para que los tamaños se ajusten según el tamaño de los contendores o los dispositivos, actualmente el contenido virtual se consume desde distintos terminales (Computadores, tablets, celulares, televisores, entre otros) por lo que usar medidas  relativas nos permite mantener la estética de nuestro sitio web en los diferentes tamaños de pantalla y además brindar una mejor experiencia al usuario.
+Estas medidas se usan para que los tamaños se ajusten según el tamaño de los contendores o los dispositivos. Actualmente el contenido virtual se consume desde distintos terminales (Computadores, tablets, celulares, televisores, entre otros) por lo que usar medidas  relativas nos permite mantener la estética de nuestro sitio web en los diferentes tamaños de pantalla y además brindar una mejor experiencia al usuario.
 
 ***
 | Anterior                   | Siguiente                     |
